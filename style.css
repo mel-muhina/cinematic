@@ -1,0 +1,13 @@
+.container-fluid {
+    display: flexbox;
+    flex-direction: row; !important
+    align-content: flex-start; 
+}
+
+.nav {
+    justify-content: right;
+}
+
+.navbar-toggler {
+    padding-left: 0;
+}
